@@ -1,0 +1,32 @@
+{
+    
+    "请求头":"Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36",
+    
+    "分类url":"https://www.knvod.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/;;k",
+    "分类":"电影$1#剧集$2#综艺$4#动漫$3#纪录片$5#短剧$6",
+    "首页":"电影",
+    "二次截取":"title=\"按评分排序\">评分排序</a>&&<div id=\"page\">",
+    "数组":"<a&&</a>",
+    "图片":"data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    //"线路二次截取":"class=\"swiper-wrapper\"&&</div>",
+    "线路数组":"data-dropdown-value&&/small>[替换:我超稳²>>稳定线路][不包含:我超稳¹#我超稳³#我超稳⁴#热播¹#热播²#热播⁸#我超快#我超快¹#]",
+    "线路标题":"<span>&&</span>[排序:稳>动漫专线>热播]",
+
+    //"播放数组":"module-play-list-base&&</div>",
+    "播放列表":"module-play-list-link&&/span>",
+    "播放标题":"<span>&&<",
+    
+    "搜索模式":"1",
+
+ /*   "搜索数组":"class=\"module-card-item-class\"&&class=\"module-card-item-info\"",
+    "搜索图片":"data-original=\"&&\"",
+    "搜索标题":"alt=\"&&\"",
+    "搜索链接":"href=\"&&\"",  
+    "搜索url":"https://www.knvod.com/daxiaoren/{wd}----------{catePg}---/"  */
+
+    "搜索url":"https://www.knvod.com/daxiaoren/-------------/?wd={wd}"
+
+}

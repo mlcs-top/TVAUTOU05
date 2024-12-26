@@ -1,0 +1,21 @@
+{
+            "分类url":"http://www.zhuiying.cyou/index.php/vod/show/area/{area}/class/{class}/by/{by}/id/{cateId}/page/{catePg}/lang/{lang}/year/{year}.html",
+
+            "分类":"电影$20#剧集$21#综艺$22#动漫$23#短剧$24",
+
+            "数组":"class=\"myui-vodlist__thumb lazyload\"&&</a>",
+            "图片":"data-original=\"&&\"",
+            //"图片":"background-image: url('&&')",
+            "标题":"title=\"&&\"",
+            "副标题":"class=\"pic-tag pic-tag-top\"*>&&</span>",
+            "链接":"href=\"&&\"",
+
+            //"线路数组":"hl-tabs-btn hl-slide-swiper&&/a>[排序:量子>暴风>非凡>黑木耳]",
+            //"线路标题":"</i>&&<",
+
+
+            "搜索模式":"1",
+            "搜索url":"http://www.zhuiying.cyou/index.php/vod/search.html?wd={wd}&submit="
+
+
+}

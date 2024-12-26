@@ -1,0 +1,14 @@
+    {
+    
+    
+        "搜索url":"https://173cq.com/vodsearch/page/{catePg}/wd/{wd}.html",
+        
+        "数组":"class=\"myui-vodlist__box\"&&class=\"play hidden-xs\"",
+        
+        
+        "分类url":"https://173cq.com/vodtype/{cateId}-{catePg}.html",
+        
+        "分类":"电影$1#电视剧$2#综艺$3#动漫$4#纪录片$21"
+    
+    
+    }

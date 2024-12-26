@@ -1,0 +1,36 @@
+{
+  "spider": "./PantyHose/spider/HCCX.jar",
+  "sites": [
+       
+
+    {
+        "key": "jbd","name": "jbd┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/jbdsm.json"
+    },
+    {
+        "key": "HH","name": "豪华┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/豪华.json"
+    },
+    {
+        "key": "MF","name": "Milf┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/Xmilf.json"
+    },
+    {
+        "key": "gr","name": "groovy┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/groovy.json"
+    },
+    {
+        "key": "up","name": "up┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/bdup.json"
+    }
+    
+
+
+
+  ]
+}

@@ -1,0 +1,13 @@
+{
+
+    //"分类url":"https://www.lhyacht.com/vodshow/area/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+    "分类url":"https://www.lhyacht.com/movie/fenlei{cateId}-{catePg}.html",
+    "分类":"电影$1#剧集$2#综艺$3#动漫$4",
+
+    "搜索url":"https://www.lhyacht.com/vodsearch/wd/{wd}.html"
+
+
+
+
+
+}

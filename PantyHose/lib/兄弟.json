@@ -1,0 +1,31 @@
+{
+
+    "分类url":"https://www.brovod.com/type/{cateId}/",
+    "分类数组":"swiper-slide navbar-item&&</li>",
+    "分类标题":"title=\"&&\"",
+    "分类ID":"href=\"/type/&&/\"",        
+
+
+    //"数组":"module-items module-poster-items-base&&module-poster-item-info",
+    "数组":"<a hr&&module-poster-item-info",
+    "图片":"<img class=*data-original=\"&&\"",
+    "标题":"title=\"&&\"",
+    "链接":"ef=\"&&\" title=",
+
+    "线路数组":"class=\"module-tab-item tab-item&&<span>",
+    "线路标题":"data-dropdown-value=\"&&\"",
+
+
+    //"跳转播放链接":"<iframe*src=\"&&\"",
+    //"嗅探词":"m3u8"
+    "过滤词":"xdad.m3u8#fxt.m3u8",
+    //"免嗅":"1",
+    //"强制解析":"1",
+
+    "搜索模式":"1",
+    "搜索url":"https://www.brovod.com/ss/{wd}----------{catePg}---/"
+
+
+
+
+}

@@ -1,0 +1,32 @@
+{
+
+
+/*    "分类url":"https://symsg5120.com/tag/{cateId}/page/{catePg}",
+    "分类二次截取":"class=\"tagslist\">&&</ul>",
+    "分类数组":"<li><a class=\"name\"&&/a><small>",
+    "分类ID":"href=\"https://symsg5120.com/tag/&&\">",
+    "分类标题":">&&<",
+*/
+
+    "分类url":"https://symsg5120.com/{cateId}/page/{catePg}[https://symsg5120.com/{cateId}",
+    "分类":"周热门&半岛&随心&逍遥&绳之韵&胜景&樱束&得意客&网友&嗷大喵",
+    "分类值":"week&tag/半岛束艺&tag/随心原创&tag/逍遥原创&tag/绳之韵&tag/胜景影视&tag/樱束原创&tag/得意客&tag/网友原创&tag/嗷大喵",
+
+
+
+
+    "数组":"class=\"excerpt excerpt-c4\"&&time>",
+    "图片":"data-src=\"&&\"",
+    "标题":"<h2><a target=\"_blank*>&&</a>",
+    "链接":"href=\"&&\"",
+
+    "播放数组":"class=\"article-content\"&&</p>",
+    "播放列表":"<img decoding&&>",
+    "播放标题":"src=*.mp4/&&.jpg\""
+
+
+
+
+
+
+}
