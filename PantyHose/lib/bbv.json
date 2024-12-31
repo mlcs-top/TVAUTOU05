@@ -37,9 +37,11 @@
     "跳转播放链接":"https://toddpartneranimal.com/+<iframe src=\"https://voe.sx/&&\"",
     "二次跳转播放链接":"prompt(\"Node\", \"&&\")",
 */
-    "跳转播放链接":"<iframe src=\"&&\"",
+/*    "跳转播放链接":"<iframe src=\"&&\"",
     "二次跳转播放链接":"window.location.href = '&&'",//此页面为"https://voe.sx/&&"，短暂停留后则会跳转其他域名
     "三次跳转播放链接":"prompt(\"Node\", \"&&\")",
+
+*/
     "嗅探词":".m3u8",
               
 "调试":"1",
