@@ -5,49 +5,49 @@
     {
       "name": "BOBO",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/BOBOlive.txt",//https://ghp.ci/
+      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/Garter/live.txt",//https://ghp.ci/
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "范明明",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "yuanzl77",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://ghp.ci/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
+      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "范明明iTV",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://live.fanmingming.com/tv/m3u/itv.m3u",
+      "url": "https://live.fanmingming.cn/tv/m3u/itv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "YueChan",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "YanG-1989",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://ghproxy.net/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
+      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "joevess",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u",
+      "url": "https://ghgo.xyz/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -62,7 +62,7 @@
 
  ///////////////////V4////////////////////   
     {
-      "name": "喵TV",
+      "name": "日后TV",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "http://rihou.cc:567/gggg.nzk",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
