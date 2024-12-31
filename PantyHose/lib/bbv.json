@@ -31,7 +31,7 @@
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
     "跳转播放链接":"<iframe src=\"&&\"",
     "二次跳转播放链接":"window.location.href = '&&'",//此页面为"https://voe.sx/&&"，短暂停留后则会跳转其他域名
-    "三次跳转播放链接":"'hls': 'Base64(&&)'",
+    "三次跳转播放链接":"'hls': '&&'",
 
 
     "嗅探词":".m3u8#mp4",
