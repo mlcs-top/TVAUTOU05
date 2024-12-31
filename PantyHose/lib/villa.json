@@ -14,7 +14,8 @@
         "搜索模式": "1",
         "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
 
-        //"跳转播放链接":"<source src=\"&&\"",
+        "跳转播放链接":"value='<iframe src=\"&&\"",
+        
         "过滤词":".webm",
         "直接播放": "1",
         "筛选":{
