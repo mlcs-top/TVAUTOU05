@@ -15,7 +15,7 @@
  
  
     //按首页第一个影片标注的所有tag（不包括最后一个tag）分类，（tag中包括字母"t"的话，不会被采集），每有一个新的影片分类就会变化
-    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/",
+    "分类url":"https://bestbondagevideos.com/tag/{cateId}/page/{catePg}/;v",
     "分类二次截取":"list-post ax row&&itemscope",
     "分类数组":"ag&&t",
     "分类ID":"-&& ",
@@ -37,8 +37,7 @@
     "嗅探词":".m3u8#mp4",
               
 "调试":"1",
-"直接播放":"1",
-"强制解析":"1"
+"直接播放":"1"
 
 
 }
