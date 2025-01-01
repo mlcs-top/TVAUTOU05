@@ -7,7 +7,7 @@
     "二次截取":"hideStickThread();&&</table>",
     "数组":"forumtit\">&&</a></li><li>",
     //"图片":"zoomfile=\"&&\"",
-    "图片":"zoomfile=\"&&.jpg\"",
+    "图片":"zoomfile=\"&&.jpg\"+.jpg",
     "标题":"class=\"s xst\">&&</a>",
     "链接":"href=\"&&\"",
     "链接前缀":"https://tslbbs.com/",
