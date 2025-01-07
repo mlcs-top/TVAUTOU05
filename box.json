@@ -287,16 +287,6 @@
         "ext": "./PantyHose/lib/子子.json"
     },
     {
-        "key": "GG","name": "🤵光棍┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/光棍.json"
-    },
-    {
-        "key": "RB","name": "🌺热波┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/热播.json"
-    },
-    {
         "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/骚火.json"
@@ -319,11 +309,6 @@
         "key": "lkvod","name": "🍁来看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/来看.json"
-    },
-    {
-        "key": "DSX","name": "🧙师兄┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/师兄.json"
     },
     {
         "key": "HME","name": "👂️木耳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
@@ -391,39 +376,22 @@
       "ext": "./PantyHose/lib/达达龟.json"
     },
     {
-      "key": "csp_米爱","name": "🐰米爱┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/米爱.json"
-    },
-    {
         "key": "全集网","name": "⚛️全集┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,//网站需验证
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/全集网.json"
     },
 
-//////////////////////////DRPY(4)///////////////////////////
+//////////////////////////DRPY(2)///////////////////////////
     {
       "key": "贱贱","name": "🤪荐片┃DR","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
       "api": "./PantyHose/frame/drpy2.min.js",
       "ext": "./PantyHose/lib/荐片.js"
     },
     {
-      "key": "畅梦","name": "💋畅梦┃DR","type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/畅梦.js"
-    },
-    {
         "key": "碟调影视","name": "📀碟调┃DR","type": 3,
         "api": "./PantyHose/frame/drpy2.min.js",
         "ext": "./PantyHose/lib/碟调.js"
     },
-    {
-      "key": "思古影视","name": "💓思古┃DR","type": 3,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      //"ext": "./PantyHose/lib/思古.js",
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/思古.js"
-    },
-
 
 ///////////////其他(3)//////////////
 
