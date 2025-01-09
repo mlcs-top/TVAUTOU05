@@ -31,7 +31,8 @@
     "分类":"电影$1#剧集$2#综艺$4#动漫$3#纪录片$5#短剧$6",
 
     "搜索url":"https://www.knvod.com/daxiaoren/-------------/?wd={wd}",
-    "过滤词":"lcap-static-saas"
+    "过滤词":"lcap-static-saas",
+    "嗅探词":".ts#.m3u8"
 
 
 }
