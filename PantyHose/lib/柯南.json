@@ -10,7 +10,7 @@
     "图片":"data-original=\"&&\"",
     "标题":"title=\"&&\"",
     "链接":"href=\"&&\"",
-
+*/
     //"线路二次截取":"class=\"swiper-wrapper\"&&</div>",
     "线路数组":"data-dropdown-value&&/small>[替换:我超稳²>>稳定线路][不包含:我超稳¹#我超稳³#我超稳⁴#热播¹#热播²#热播⁸#我超快#我超快¹#]",
     "线路标题":"<span>&&</span>[排序:稳>动漫专线>热播]",
@@ -30,6 +30,8 @@
     "分类url":"https://www.knvod.com/type/{cateId}/",
     "分类":"电影$1#剧集$2#综艺$4#动漫$3#纪录片$5#短剧$6",
 
-    "搜索url":"https://www.knvod.com/daxiaoren/-------------/?wd={wd}"
+    "搜索url":"https://www.knvod.com/daxiaoren/-------------/?wd={wd}",
+    "过滤词":"lcap-static-saas"
+
 
 }
