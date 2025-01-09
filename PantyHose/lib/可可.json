@@ -8,7 +8,9 @@
     "分类":"电影$1#电视剧$2#动漫$3#综艺纪录$4#短剧$5",
     "数组":"class=\"module-item\"&&class=\"v-item-top-right\"",
 
-    "图片":"'https://61.147.93.252:15002/vod1/ + data-original=\"/vod1/&&\"",
+    //"图片":"'https://61.147.93.252:15002/vod1/ + data-original=\"/vod1/&&\"",
+    
+    "图片":"https://vres.bqlpk.cn + data-original=\"&&\"",
 
     "标题":"title=\"&&\"",
     "副标题":"<span>&&</span>",
