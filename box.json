@@ -219,18 +219,9 @@
     },
 
 
-//////////////////////外挂接口(6)///////////////////////////////
+//////////////////////外挂接口(3)///////////////////////////////
 
-    {
-        "key":"热播","name":"🌴热播┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,"timeout":15,"playerType":2,
-        "api":"csp_AppTT",
-        "ext":"AO7TcBkd8I/B5wQc4Qma+pU="
-    },  
-    {
-       "key":"萌米","name":"🌾萌米┃APP","type":3,"timeout":15,"playerType":1,
-       "api":"csp_AppTT",
-       "ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="
-    },
+
     {
         "key":"苹果","name":"🍎苹果┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,
         "api":"csp_LiteApple"
@@ -275,11 +266,6 @@
         "key": "BT","name": "🐝BARBT┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/barbt.json"
-    },
-    {
-        "key": "CQ","name": "🥝传奇┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/传奇.json"
     },
     {
         "key": "ZZ","name": "🍂子子┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
