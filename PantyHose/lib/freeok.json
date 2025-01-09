@@ -1,5 +1,5 @@
 {
-            "分类url":"https://freeok.biz/v-type/{cateId}.html",
+            "分类url":"https://www.freeok.biz/list/{cateId}.html",
             "分类":"电影$1#剧集$2#动漫$3#综艺$4#少儿$5",
 
             "搜索模式": "1",
