@@ -6,95 +6,77 @@
       "name": "BOBO",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/lives/main/live.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "HeiLongjiang_M",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/黑龙江PLTV移动CDN版.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "ShanDong_M",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/SPX372928/MyIPTV/master/山东SNM移动CDN版.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "GuoVIn",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "范明明",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "yuanzl77",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yuanzl77/IPTV/main/live.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "YueChan",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "YanG-1989",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }, 
     {
       "name": "joevess",
       "type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "俊于",
-      "type": 0,"playerType": 1,
+      "name": "俊于","type": 0,"playerType": 1,
       "url": "http://home.jundie.top:81/Cat/tv/live.txt",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png",
-      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+      "logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     },
 
  ///////////////////V4////////////////////   
     {
-      "name": "日后TV",
-      "type": 0,"playerType": 1,"ua": "okhttp/3.15",
+      "name": "日后TV","type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "http://rihou.cc:567/gggg.nzk",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
     {
-      "name": "斗鱼",
-      "type": 0,"playerType": 1,"ua": "okhttp/3.15",
+      "name": "斗鱼","type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "MV",
-      "type": 0,"playerType": 1,"ua": "okhttp/3.15",
+      "name": "MV","type": 0,"playerType": 1,"ua": "okhttp/3.15",
       "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
 
 
@@ -102,11 +84,9 @@
 ],
 
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "【小波丁丁蕤】","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,
-      "api": "csp_DouDou"
-    },
+
+{"key": "豆豆","name": "【小波丁丁蕤】","searchable": 0,"quickSearch": 0,"filterable": 0,"type": 3,"api": "csp_DouDou"},
+
 /////////////////////////采集站（搜索不支持）///////////////////////////
     {
         "key": "豪华","name": "🛒豪华┃采集","type": 1,"searchable": 0,"quickSearch": 0,"filterable": 1,
@@ -155,8 +135,7 @@
     },
     {
         "key": "drpy_js_量子资源","name": "🛒量子┃采集","type": 3,"searchable": 0,
-        "api": "./PantyHose/frame/drpy2.min.js",
-        "ext": "./PantyHose/lib/量子资源.js"
+        "api": "./PantyHose/frame/drpy2.min.js","ext": "./PantyHose/lib/量子资源.js"
     },
 
 
@@ -207,250 +186,67 @@
     },
 
 /////////////////////非搜索///////////////////////////////
-    {
-        "key": "好趣网","name": "📺好趣┃DR","type": 3,"searchable": 0,//网站无需搜索
-        "api": "./PantyHose/frame/drpy2.min.js",
-        "ext": "./PantyHose/lib/好趣网.js"
-    },
-    {
-      "key": "cctv","name": "📺央视┃快线","type": 3,"searchable": 0,"filterable": 0,
-      "api": "csp_CCTV","jar":"./PantyHose/spider/HCCX.jar",
-      "ext": "./PantyHose/lib/央视大全.json"
-    },
 
+{"key":"好趣网","name":"📺好趣┃DR","type":3,"searchable":0,"api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/好趣网.js"},
+{"key":"cctv","name":"📺央视┃快线","type":3,"searchable":0,"filterable":0,"api":"csp_CCTV","jar":"./PantyHose/spider/HCCX.jar","ext":"./PantyHose/lib/央视大全.json"},
 
 //////////////////////外挂接口(3)///////////////////////////////
 
+{"key":"苹果","name":"🍎苹果┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_LiteApple"},  
+{"key":"Ibot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_Ikanbot"},
+{"key":"Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
 
-    {
-        "key":"苹果","name":"🍎苹果┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_LiteApple"
-    },      
-    {   
-        "key":"Ibot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,
-        "api":"csp_Ikanbot"
-    },
-    {  
-        "key":"Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,
-        "api":"csp_Kuaikan"
-    },
+//////////////////////////XBPQ(28)///////////////////////////
 
-//////////////////////////XBPQ(31)///////////////////////////
-
-
-    {
-        "key": "PPT","name": "🤹PPT┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/PPT.json"
-    },
-    {
-        "key": "XD","name": "👦兄弟┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/兄弟.json"
-    },
-    {
-        "key": "kk","name": "🏴可可┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/可可.json"
-    },
-    {   "key":"酷看","name":"💡酷看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/酷看.json"
-    },
-    {
-        "key": "New6v","name": "🐩六葳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/6v.json"
-    },
-    {
-        "key": "BT","name": "🐝BARBT┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/barbt.json"
-    },
-    {
-        "key": "ZZ","name": "🍂子子┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/子子.json"
-    },
-    {
-        "key": "XXX2X","name": "🦃骚火┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/骚火.json"
-    },
-    {
-        "key": "sbb","name": "👙素白┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/素白.json"
-    },
-    {
-      "key": "星辰","name": "☪️星辰┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/星辰.json"
-    },    {
-        "key": "knvod","name": "🚹柯南┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/柯南.json"
-    },
-    {
-        "key": "lkvod","name": "🍁来看┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/来看.json"
-    },
-    {
-        "key": "HME","name": "👂️木耳┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./NOTES/采集站规则.json"
-    },
-    {
-        "key": "rcsdhssc","name": "🎋立播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/立播.json"
-    },
-    {
-        "key": "FreeOK","name": "👌FrOK┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/freeok.json"
-    },
-    {
-        "key": "圣城","name": "⛅️酷云┃PQ","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/酷云.json"
-    },
-    {
-      "key": "茶杯狐","name": "🦊茶狐┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/茶杯狐.json"
-    },
-    {
-      "key": "黑狐","name": "🦂黑狐┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/黑狐.json"
-    },
-    {
-      "key": "TVB","name": "🔆TVB┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/TVB云播.json"
-    },
-    {
-      "key": "Lib","name": "🎉利播┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/libvio.json"
-    },
-    {
-      "key": "98","name": "🎐玖八┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/98.json"
-    },
-    {
-      "key": "七新","name": "🍵七新┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/七新.json"
-    },
-    {
-      "key": "55","name": "🐤午舞┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/55.json"
-    },
-    {
-      "key": "奇优","name": "🎗️奇优┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/奇优.json"
-    },
-    {
-      "key": "csp_达龟","name": "🐳达龟┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": "./PantyHose/lib/达达龟.json"
-    },
-    {
-        "key": "全集网","name": "⚛️全集┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,//网站需验证
-        "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/全集网.json"
-    },
+{"key":"PPT","name":"🤹PPT┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/PPT.json"},
+{"key":"XD","name":"👦兄弟┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/兄弟.json"},
+{"key":"sxys","name":"师兄┃影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"http://www.meowtv.cn/xp/meow.php?file=sxys"},
+{"key":"Ivdy","name":"💖I电影┃影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null"},
+{"key":"kk","name":"🏴可可┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/可可.json"},
+{"key":"酷看","name":"💡酷看┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/酷看.json"},
+{"key":"55","name":"🐤午舞┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/55.json"},
+{"key":"New6v","name":"🐩六葳┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/6v.json"},
+{"key":"七新","name":"🍵七新┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/七新.json"},
+{"key":"98","name":"🎐玖八┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/98.json"},
+{"key":"BT","name":"🐝BARBT┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/barbt.json"},
+{"key":"ZZ","name":"🍂子子┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/子子.json"},
+{"key":"XXX2X","name":"🦃骚火┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/骚火.json"},
+{"key":"sbb","name":"👙素白┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/素白.json"},
+{"key":"星辰","name":"☪️星辰┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/星辰.json"},
+{"key":"knvod","name":"🚹柯南┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/柯南.json"},
+{"key":"lkvod","name":"🍁来看┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/来看.json"},
+{"key":"HME","name":"👂️木耳┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./NOTES/采集站规则.json"},
+{"key":"rcsdhssc","name":"🎋立播┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/立播.json"},
+{"key":"FreeOK","name":"👌FrOK┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/freeok.json"},
+{"key":"圣城","name":"⛅️酷云┃PQ","type":3,"searchable":1,"quickSearch":0,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/酷云.json"},
+{"key":"茶杯狐","name":"🦊茶狐┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/茶杯狐.json"},
+{"key":"黑狐","name":"🦂黑狐┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/黑狐.json"},
+{"key":"TVB","name":"🔆TVB┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/TVB云播.json"},
+{"key":"Lib","name":"🎉利播┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/libvio.json"},
+{"key":"奇优","name":"🎗️奇优┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/奇优.json"},
+{"key":"csp_达龟","name":"🐳达龟┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/达达龟.json"},
+{"key":"全集网","name":"⚛️全集┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/全集网.json"},
 
 //////////////////////////DRPY(2)///////////////////////////
-    {
-      "key": "贱贱","name": "🤪荐片┃DR","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"playerType": "1",
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "ext": "./PantyHose/lib/荐片.js"
-    },
-    {
-        "key": "碟调影视","name": "📀碟调┃DR","type": 3,
-        "api": "./PantyHose/frame/drpy2.min.js",
-        "ext": "./PantyHose/lib/碟调.js"
-    },
+
+{"key":"贱贱","name":"🤪荐片┃DR","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/荐片.js"},
+{"key":"碟调","name":"📀碟调┃DR","type":3,"api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/碟调.js"},
 
 ///////////////其他(3)//////////////
 
-    {
-        "key":"酷奇","name":"🎤酷奇┃MV","type": 3,"searchable": 0,"quickSearch": 0,"changeable":0,
-        "api":"./PantyHose/frame/drpy2.min.js",
-        "ext":"./PantyHose/lib/酷奇MV.js",
-        "style":{"type":"rect","ratio":1.597}
-    },
-    {
-      "key": "MTV","name": "🎧明星┃MV","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/MTV.json"
-    },
-    {
-      "key": "Bili","name": "🅱哔哩┃合集","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      //"ext": "./PantyHose/lib/bilibili.json"
-      "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bilibili.json"
-    },
-    {
-      "key": "戏曲杂苑","name": "🅱哔哩┃戏曲","type": 3,"searchable": 0,"quickSearch": 1,"filterable": 1,
-      "api": "csp_Bili",
-      "ext": "./PantyHose/lib/bili戏曲.json"
-    },
-    {
-      "key": "相声小品","name": "🅱哔哩┃小品","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,
-      "api": "csp_Bili",
-      "ext": "./PantyHose/lib/bili相声.json"
-    },
-    {
-      "key": "Biliych","name": "🅱哔哩┃歌曲","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/bili歌曲.json"
-    },
-    {
-      "key": "dr_兔小贝","name": "📚儿童┃启蒙","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "./PantyHose/frame/drpy2.min.js",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/兔小贝.js"
-    },
-    {
-      "key": "少儿教育","name": "📚少儿┃教育","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/少儿教育.json"
-    },
-    {
-      "key": "小学课堂","name": "📚小学┃课堂","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/小学课堂.json"
-    },
-    {
-      "key": "初中课堂","name": "📚初中┃课堂","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/初中课堂.json"
-    },
-    {
-      "key": "高中教育","name": "📚高中┃课堂","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_Bili",
-      "style": {"type": "rect","ratio": 1.597},
-      "ext": "./PantyHose/lib/高中课堂.json"
-    },
-    {
-      "key": "Aid","name": "🚑急救┃教学","type": 3,"searchable": 0,"quickSearch": 0,"changeable": 0,
-      "api": "csp_FirstAid",
-      "style": {"type": "rect","ratio": 3.8}
-    }
+{"key":"酷奇","name":"🎤酷奇┃MV","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/酷奇MV.js","style":{"type":"rect","ratio":1.597}},
+{"key":"MTV","name":"🎧明星┃MV","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/MTV.json"},
+{"key":"Bili","name":"🅱哔哩┃合集","type":3,"searchable":1,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+    "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/bilibili.json"},
+{"key":"戏曲杂苑","name":"🅱哔哩┃戏曲","type":3,"searchable":0,"quickSearch":1,"filterable":1,"api":"csp_Bili","ext":"./PantyHose/lib/bili戏曲.json"},
+{"key":"相声小品","name":"🅱哔哩┃小品","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Bili","ext":"./PantyHose/lib/bili相声.json"},
+{"key":"Bili歌曲","name":"🅱哔哩┃歌曲","type":3,"searchable":1,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/bili歌曲.json"},
+{"key":"兔小贝","name":"📚儿童┃启蒙","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"./PantyHose/frame/drpy2.min.js","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/兔小贝.js"},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/初中课堂.json"},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"ext":"./PantyHose/lib/高中课堂.json"},
+{"key":"Aid","name":"🚑急救┃教学","type":3,"searchable":0,"quickSearch":0,"changeable":0,"api":"csp_FirstAid","style":{"type":"rect","ratio":3.8}}
 
 
 
