@@ -1,11 +1,13 @@
 {
 "urls":
 [
-{"name":"小波【GITEE】","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
-{"name":"小波【GITHUB】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
+
+{"name":"小波_主","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
+{"name":"小波_备","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
+
 {"name":"【TEST】","url":"https://gitee.com/johnisonn/tvbox/raw/main/test.json"},
-{"name":"【ETC_GITEE】","url":"https://gitee.com/johnisonn/tvbox/raw/main/etc.json"},
-{"name":"【ETC_GITHUB】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/etc.json"},
+{"name":"【ETC_主】","url":"https://gitee.com/johnisonn/tvbox/raw/main/etc.json"},
+{"name":"【ETC_备】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/etc.json"},
 {"name":"【小药丸_wang18】","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/Wang18/main/pro.json"}
 
 
