@@ -2,9 +2,9 @@
 "storeHouse":
 [
 {"sourceName":"🦊大佬仓🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/pro.json"},
-{"sourceName":"🦊爱好者仓🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/amateur.json"},
+{"sourceName":"🦊业余仓🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/amateur.json"},
 {"sourceName":"🦊自用仓🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/self.json"},
-{"sourceName":"🐯毒盒仓🐯","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/du.json"},
+{"sourceName":"🦊毒盒仓🦊","sourceUrl":"https://gitee.com/Johnisonn/tvbox/raw/main/Stiletto/du.json"},
 
 
 {"sourceName":"🦊拾光多仓🦊","sourceUrl":"https://xmbjm.github.io/ck.json"}
