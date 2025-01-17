@@ -1,7 +1,12 @@
 {
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
-       
+
+
+    {
+        "key": "avdb","name": "avdb","type": 4,"searchable": 0,"changeable": 0,
+        "api": "http://zhangqun66.com/229.php"
+    },
     {
         "key": "cz","name": "厂长┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
