@@ -19,10 +19,10 @@
     "分类":"fetish$fetish#stockings$stockings#lingerie$lingerie#bdsm$bdsm#bondage$bondage#",
 
     //"数组":"videos[]",
-    "图片":"videos[].scr",
-    "标题":"videos[].title",
-    //"副标题":"videos[].duration",
-    "链接":"vidoes[].video_id+'/'+videos[].dir+'/'", 
+    "图片":"videos[1].scr",
+    "标题":"videos[1].title",
+    //"副标题":"videos[1].duration",
+    "链接":"vidoes[1].video_id+'/'+videos[1].dir+'/'", 
     "链接前缀":"https://xmilf.com/video/", 
 
     //"跳转播放链接":"<source id=\"video_source*src=\"&&\"",
