@@ -2,13 +2,31 @@
 2024-12-30-22:04,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 
+★广东频道★,#genre#
+
+广州新闻,http://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=d2c2db0b598c02ec1b5623728434d367&txTime=18d57929bd3
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
+广州影视,http://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=1bd3a1082ab5b89f48c1bff9a3760da4&txTime=18d57929bd4
+广州南国都市,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
+
+★陕西频道★,#genre#
+陕西卫视, http://stream.snrtv.com/sxbc-star-xAE013.m3u8
+陕西新闻资讯,http://gxlive.snrtv.com/sx1-SD.m3u8
+陕西都市青春,http://gxlive.snrtv.com/sx2-SD.m3u8
+陕西银铃,http://gxlive.snrtv.com/sx3-SD.m3u8
+陕西秦腔,http://gxlive.snrtv.com/sx5-SD.m3u8
+陕西体育休闲,http://gxlive.snrtv.com/sx7-SD.m3u8
+陕西西部电影,http://gxlive.snrtv.com/sx8-SD.m3u8
+
+★内蒙频道★,#genre#
 
 
-
-
-
-
-★央视频道★,#genre#
+内蒙古卫视，https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+内蒙新闻，https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+内蒙经济，https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙少儿，https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+内蒙文体，https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+内蒙农牧，https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
 
 
 
@@ -16,7 +34,7 @@
 张家口-1,https://nlive.zjkgdcs.com:8572/live/xwzhpd.m3u8$178.9ms
 张家口-1,http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8$181.99ms
 张家口-2,https://nlive.zjkgdcs.com:8572/live/zjktv2.m3u8$120.98ms
-
+宁夏卫视，http://stream.nxtv.com.cn/wspd/sd/live.m3u8?_upt=492976fb1732208814
 ★精品频道★,#genre#
 
 ★NewTV频道★,#genre#
