@@ -2,8 +2,8 @@
 "urls":
 [
 
-{"name":"小波_主","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
-{"name":"小波_备","url":"https://ghproxy.cc/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
+//{"name":"小波_主","url":"https://gitee.com/johnisonn/tvbox/raw/main/box.json"},
+{"name":"小波","url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/Johnisonn/tvbox/main/box.json"},
 
 {"name":"【TEST】","url":"https://gitee.com/johnisonn/tvbox/raw/main/test.json"},
 {"name":"【ETC_主】","url":"https://gitee.com/johnisonn/tvbox/raw/main/etc.json"},
