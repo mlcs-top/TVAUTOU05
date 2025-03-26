@@ -1,29 +1,42 @@
-name: Run FFmpeg Stream Test
+name: FFmpeg Stream Test
 
 on:
-  workflow_dispatch:  # 允许手动触发
-  schedule:
-    - cron: '0 0 * * *'  # 每天UTC时间0点运行（北京时间8点）
+  push:
+  workflow_dispatch:
 
 jobs:
-  run-ffmpeg:
+  run_script:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkout repository
       uses: actions/checkout@v4
 
-    - name: Install Dependencies
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.13'
+
+    - name: Install FFmpeg
       run: |
         sudo apt-get update
         sudo apt-get install -y ffmpeg
 
-    - name: Run FFmpeg Script
+
+    - name: Run FFmpeg script
       run: |
         python main.py
 
-    - name: Upload Log File
-      uses: actions/upload-artifact@v3
-      with:
-        name: ffmpeg-logs
-        path: ffmpeg_log_*.log
+    - name: List directory structure
+      run: |
+        ls -lR
+
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        if ! git diff --staged --quiet; then
+          git commit -m "Auto-update"
+          git push
+        fi
