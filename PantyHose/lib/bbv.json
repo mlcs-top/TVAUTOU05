@@ -26,7 +26,7 @@
     "搜索url":"https://bestbondagevideos.com/page/{catePg}/?s={wd}",
 
     //"跳转播放链接":"<IFRAME SRC=\"&&\"",
-    "跳转播放链接":"<a href=\"&&\"><img src=",
+    "跳转播放链接":"<div class=\"video\"><a href=\"&&\">",
     //"二次跳转播放链接":"sources: [{file:\"&&\"",
 
     //"跳转播放链接":"<iframe src=\"&&\"",
