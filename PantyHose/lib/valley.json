@@ -11,13 +11,12 @@
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
 
-    //"跳转播放链接":"value='<iframe src=\"&&\"",
+    "跳转播放链接":"<video id=*<source src=\"&&\"*data-quality=\"480p\"",
     //"二次跳转播放链接":"<source src=\"&&\" type=\"video/webm\" data-quality=\"480p\"",
 
     "直接播放":"1",
     "嗅探词":".webm",
-
-"调试":"1",
+    "调试":"1",
 
     "搜索模式":"1",
     "搜索url": "https://bondagevalley.cc/search?keyword={wd}&page_id={catePg}",
