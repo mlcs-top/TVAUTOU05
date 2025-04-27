@@ -52,7 +52,7 @@
         "ext": "./PantyHose/lib/bunkr.si.json" 
     },
     {
-        "key": "msg","name": "🚸美束馆┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "msg","name": "🚸美束馆┃PIC","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/etc/XBPQ/美束馆.json"
     },
