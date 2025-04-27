@@ -9,7 +9,9 @@
             "链接":"href=\"&&\"",
             "简介":"无",
 
-            "跳转播放链接": "<source src=\"&&\"",//necessary
+            //"跳转播放链接": "<source src=\"&&\"",//necessary
+            "跳转播放链接": "https://meatballs.bunkr.ru/+videoCoverUrl = \"https:\/\/i-meatballs.bunkr.ru\/thumbs\/&&.webm_grid+.webm",
+            
             "嗅探词":".webm",//necessary
             "直接播放":"1"//necessary
 
