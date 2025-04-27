@@ -11,7 +11,8 @@
     "标题":"alt=\"&&\"",
     "链接":"href=\"&&\"",
 
-    "跳转播放链接":"<video id=*<source src=\"&&\" type=\"video/webm\" data-quality=\"480p\"",
+    //"跳转播放链接":"<video id=*<source src=\"&&\" type=\"video/webm\" data-quality=\"480p\"",
+    "跳转播放链接":"<source src=\"&&.webm\"+.webm",
                   
 
 
