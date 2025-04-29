@@ -1,19 +1,23 @@
 {
 
-    "分类url":"https://www.brovod.com/type/{cateId}/",
+    "分类url":"https://www.brovod.com/show/{cateId}--------{catePg}---/",
+    "分类":"电影$movie#电视剧$tv#综艺$show#纪录片$documentary", 
+
+ /*
     "分类数组":"swiper-slide navbar-item&&</li>",
     "分类标题":"title=\"&&\"",
     "分类ID":"href=\"/type/&&/\"",        
-
+*/
 
     //"数组":"module-items module-poster-items-base&&module-poster-item-info",
-    "数组":"<a hr&&module-poster-item-info",
-    "图片":"<img class=*data-original=\"&&\"",
+    "数组":"class=\"public-list-div public-list-bj\"&&class=\"public-play\"",
+    "图片":"<img class=*data-src=\"&&\"",
     "标题":"title=\"&&\"",
-    "链接":"ef=\"&&\" title=",
+    "链接":"href=\"&&\"",
 
-    "线路数组":"class=\"module-tab-item tab-item&&<span>",
-    "线路标题":"data-dropdown-value=\"&&\"",
+
+    "线路数组":"<i class=\"fa ds-dianying\">&&/a>",
+    "线路标题":"</i>&&<",
 
 
     //"跳转播放链接":"<iframe*src=\"&&\"",
