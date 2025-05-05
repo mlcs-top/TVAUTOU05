@@ -6,19 +6,19 @@
     
     "分类url":"https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;k",
     "分类":"电影$1#电视剧$2#动漫$3#综艺纪录$4#短剧$5",
-    "数组":"class=\"module-item\"&&class=\"v-item-top-right\"",
+    "数组":"class=\"module-item\"&&#itemCoverImg div:nth-child",
 
     //"图片":"'https://61.147.93.252:15002/vod1/ + data-original=\"/vod1/&&\"",
     
-    "图片":"'https://vres.bqlpk.cn + data-original=\"&&\"",
+    "图片":"'https://vres.xzzsw.com/ + data-original=\"/&&\"",
 
 
-    "标题":"title=\"&&\"",
+    "标题":"class=\"v-item-title\">&&</div>",
     "副标题":"<span>&&</span>",
     "链接":"href=\"&&\"",
 
 
-    "搜索url":"https://www.keke1.app/search?k={wd}"
+   // "搜索url":"https://www.keke1.app/search?k={wd}"
 
 
 
