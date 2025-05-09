@@ -8,6 +8,11 @@
         "ext": "./PantyHose/lib/pxx.json"
     },
     {
+        "key": "Plab","name": "Plab┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/plab.json"
+    },
+    {
         "key": "avdb","name": "avdb","type": 4,"searchable": 0,"changeable": 0,
         "api": "http://zhangqun66.com/229.php"
     },
