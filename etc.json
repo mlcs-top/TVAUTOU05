@@ -27,6 +27,16 @@
              //"https://mirror.ghproxy.com/https://raw.githubusercontent.com/Johnisonn/tvbox/main/PantyHose/lib/villa.json"
     },
     {
+        "key": "PXXX","name": "🚸PXXX┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/pxx.json"
+    },
+    {
+        "key": "Plab","name": "🚸Plab┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/plab.json"
+    },
+    {
         "key": "VK","name": "🚸VK┃ColorF","type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/vk.json"
