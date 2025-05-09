@@ -5,7 +5,7 @@
     {
         "key": "PXXX","name": "PXXX┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
-        "ext": "./PantyHose/lib/pxxx.json"
+        "ext": "./PantyHose/lib/pxx.json"
     },
     {
         "key": "avdb","name": "avdb","type": 4,"searchable": 0,"changeable": 0,
