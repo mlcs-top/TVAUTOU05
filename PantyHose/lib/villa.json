@@ -1,21 +1,24 @@
 {
 
-        "数组":"class=\"card colorbackground vidholder d-inline-block\"&&likedcalc d-inline-block",
-        "图片":"<video*poster=\"&&\"",
-        "标题":"titlesize\">&&</h6>",
-        "链接":"href=\"&&\"",
-        "分类url":"https://bdsmvilla.com/{cateId}{by}?page={catePg}",//this Writing method is for sorting!
-        "分类":"BD$bondage#CN$chinese-bdsm#Elec$electro-tens#Forced$forced-orgasm#Chastity$chastity#OUT$outdoor-bdsm#Vintage$vintage-bdsm",
+        "数组":"border-accent group&&<video class=",
+        "图片":"src=\"&&\"",
+        "标题":"alt=\"&&\"",
+        "链接":"<a href='&&'",
 
-        //"分类url":"https://bdsmvilla.com/{cateId}?page={catePg}",//this Writing method is no sorting,Only display the latest!
-        //"分类":"BD$category/bondage#CN$category/chinese-bdsm#Elec$category/electro-tens#Forced$category/forced-orgasm#CB$category/chastity#OUT$category/outdoor-bdsm#Vintage$category/vintage-bdsm#tit-torture$category/tit-torture",
+        "跳转播放链接":"data-setup=*<source src=\"&&\"",
+
+        //"分类url":"https://bdsmvilla.com/{cateId}{by}?page={catePg}",//this Writing method is for sorting!
+        //"分类":"BD$bondage#CN$chinese-bdsm#Elec$electro-tens#Forced$forced-orgasm#Chastity$chastity#OUT$outdoor-bdsm#Vintage$vintage-bdsm",
+
+        "分类url":"https://bdsmvilla.com/{cateId}?page={catePg}",//this Writing method is no sorting,Only display the latest!
+        "分类":"BD$category/bondage#CN$category/chinese-bdsm#Elec$category/electro-tens#Forced$category/forced-orgasm#CB$category/chastity#OUT$category/outdoor-bdsm#Vintage$category/vintage-bdsm#tit-torture$category/tit-torture",
         
         "调试":"1",
         "搜索模式": "1",
         "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
 
         
-        "过滤词":".webm",
+        "过滤词":".webm#.mp4",
         "直接播放": "1",
 
 
