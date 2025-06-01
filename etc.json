@@ -26,6 +26,11 @@
       "ext": "./PantyHose/lib/pornlab-kb.json"
     },
     {
+        "key": "CNPP","name": "🚸CNPP┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/CNPP.json"
+    },
+    {
       "key": "BDSMvilla","name": "🚸Villa┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
