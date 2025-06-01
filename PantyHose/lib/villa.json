@@ -17,8 +17,8 @@
         "搜索模式": "1",
         "搜索url": "https://bdsmvilla.com/search?search={wd}&page={catePg}",
 
-        "免嗅":"1",
-        "嗅探词":".mp4",
+        //"免嗅":"1",
+        //"嗅探词":".mp4",
         "直接播放": "1",
 
 
