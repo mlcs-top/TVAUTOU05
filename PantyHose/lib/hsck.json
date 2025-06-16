@@ -1,7 +1,7 @@
 {
-    "请求头": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.251 Safari/537.36",
+    //"请求头": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.251 Safari/537.36",
 
-    "分类url":"https://hsckzy.xyz/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+    "分类url":"https://hsckzy.cc/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
     "分类":"SM$21",
 
  
