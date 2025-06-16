@@ -2,6 +2,11 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
     {
+        "key": "CJZ","name": "CJZ┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/cjz.json"
+    },
+    {
         "key": "HSCK","name": "HSCK┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/hsck.json"
