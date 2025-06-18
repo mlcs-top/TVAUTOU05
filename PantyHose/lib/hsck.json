@@ -14,7 +14,7 @@
 
     
 
-    "搜索url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&wd={wd}&pg={catePg}",
+    "搜索url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&wd={wd}",
 
     //"播放链接":"vod_pic_thumb\":\"&&\"[替换:1.jpg>>index.m3u8]",
 
