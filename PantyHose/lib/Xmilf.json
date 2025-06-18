@@ -4,12 +4,12 @@
     "分类url:":"https://xmilf.com/api/json/videos2/86400/str/latest-updates/30/categories.{cateId}.{catePg}.all...json",
     "分类":"fetish$fetish#stockings$stockings#lingerie$lingerie#bdsm$bdsm#bondage$bondage#",
 
-    "二次截取":"videos\":[&&]}",
+    "二次截取":"videos\"*[&&]}",
     "数组":"{&&\"props",
-    "图片":"scr\":\"&&\"",
-    "标题":"title\":\"&&\"",
-    "副标题":"duration\":\"&&\"",
-    "链接":"https://xmilf.com/video/+video_id\":\"&&\"+/+dir\":\"&&\"",
+    "图片":"scr\"*\"&&\"",
+    "标题":"title\"*\"&&\"",
+    "副标题":"duration\"*\"&&\"",
+    "链接":"https://xmilf.com/video/+video_id\"*\"&&\"+/+dir\"*\"&&\"",
 
     "跳转播放链接":"https://xmilf.com/api/videofile.php?video_id=+\"video_id\":\"&&\"+\\&lifetime=8640000",
     "二次跳转播放链接":"\"video_url\":\"&&\"",
