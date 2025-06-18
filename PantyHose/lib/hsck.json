@@ -10,7 +10,7 @@
     "图片":"vod_pic\"*\"&&\"",
     "标题":"vod_name\"*\"&&\"",
     "副标题":"vod_pubdate\"*\"&&\"",
-    "链接":"https://hsckzy.cc/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
+    //"链接":"https://hsckzy.cc/index.php/vod/detail/id/+\"vod_id\":&&,+.html",
 
     
 
