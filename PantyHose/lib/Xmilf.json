@@ -1,9 +1,10 @@
 
 {
 
-    //"分类url:":"https://xmilf.com/api/json/videos2/86400/str/latest-updates/30/categories.{cateId}.{catePg}.all...json",
-    "分类url:":"https://xmilf.com.{cateId}.{catePg}.all...json",
-    "分类":"fetish$fetish#stockings$stockings#lingerie$lingerie#bdsm$bdsm#bondage$bondage",
+    "分类url:":"https://xmilf.com/api/json/videos2/86400/str/latest-updates/30/categories.{cateId}.{catePg}.all...json",
+    //"分类url:":"https://xmilf.com.{cateId}.{catePg}.all...json",
+    //"分类":"fetish$fetish#stockings$stockings#lingerie$lingerie#bdsm$bdsm#bondage$bondage",
+    "分类":"fetish$fetish",
 
     "二次截取":"videos\":[&&]}",
     "数组":"{\"v&&\"props",
