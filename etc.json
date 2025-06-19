@@ -43,6 +43,11 @@
         "ext": "./PantyHose/lib/mansion.json"
     },
     {
+        "key": "HSCK","name": "🚸HSCK┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/hsck.json"
+    },
+    {
       "key": "91P","name": "🚸91P┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
