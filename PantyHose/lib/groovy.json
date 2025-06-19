@@ -10,7 +10,7 @@
    
     //"请求头":"手机",
    
-    "分类url:":"https://xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
 
     "分类二次截取":"second-menu-opened&&</ul>",
     "分类数组":"<li>&&</li>",
