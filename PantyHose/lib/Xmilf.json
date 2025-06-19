@@ -9,7 +9,7 @@
     "图片":"scr\"*\"&&\"",
     "标题":"title\"*\"&&\"",
     "副标题":"duration\"*\"&&\"",
-    "链接":"https://xmilf.com/video/+ideo_id\"*\"&&\"+/+dir\"*\"&&\"",
+    "链接":"https://xmilf.com/video/+ideo_id\"*\"&&\"+'/'+dir\"*\"&&\"",
 
     "跳转播放链接":"https://xmilf.com/api/videofile.php?video_id=+ideo_id\":\"&&\"+\\&lifetime=8640000",
     "二次跳转播放链接":"\"video_url\":\"&&\"",
