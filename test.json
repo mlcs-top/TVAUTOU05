@@ -2,7 +2,7 @@
   "spider": "./PantyHose/spider/HCCX.jar",
   "sites": [
 
-    {
+/*    {
             "name": "AI肥羊",
             "type": 0,
             "url": "https://nptv.freetv.top/juhe.m3u",
@@ -10,7 +10,7 @@
             "logo": "https://live.fanmingming.cn/tv/{name}.png",
             "playerType": 2,
             "timeout": 10
-    },
+    },*/
     {
         "key": "avdb","name": "avdb","type": 4,"searchable": 0,"changeable": 0,
         "api": "http://zhangqun66.com/229.php"
