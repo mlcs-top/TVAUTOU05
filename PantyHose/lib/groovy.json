@@ -12,7 +12,7 @@
     
     "分类url:":"https://xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
 
-    "分类二次截取":"second-menu-links&&</ul>",
+    "分类二次截取":"second-menu-opened&&</ul>",
     "分类数组":"<a&&/a>",
     "分类ID":"cn.xgroovy.com/categories/&&/",
     "分类标题":">&&<",
