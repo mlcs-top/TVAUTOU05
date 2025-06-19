@@ -1,22 +1,21 @@
 {
-"调试":"1",
+    
+    "调试":"1",
 
     
-
-    //"分类url:":"https://xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
-    //"分类":"bdsm$bdsm#stockings$stockings#chinese$chinese#webcam$webcam#office$office#uniform$uniform#casting$casting",
+    "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
+    "分类":"bdsm$bdsm#stockings$stockings#chinese$chinese#webcam$webcam#office$office#uniform$uniform#casting$casting",
     //"分类url:":"https://xgroovy.com/categories/{cateId}/",
 
    
-    //"请求头":"手机",
+/*
    
     "分类url:":"https://cn.xgroovy.com/categories/{cateId}/{catePg}/?sort={by}",
-
     "分类二次截取":"second-menu-opened&&</ul>",
     "分类数组":"<li>&&</li>",
     "分类ID":"categories/&&/",
     "分类标题":">&&</a>",
-
+*/
     "数组":"data-video-id&&item-quality",
     "图片":"src=\"&&\"",
     "标题":"alt=\"&&\"",
