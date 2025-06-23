@@ -31,9 +31,14 @@
         "ext": "./PantyHose/lib/CNPP.json"
     },
     {
-        "key": "bandao","name": "🚸BDTV┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "key": "bandao","name": "🚸BDTV┃Pic","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bdtv.json"
+    },
+    {
+        "key": "noodle","name": "🚸noodle┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/noodle.json"
     },
     {
         "key": "IDLE","name": "🚸idle┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
