@@ -1,0 +1,30 @@
+
+
+{
+
+    "分类url":"https://noodlemagazine.com/video/{cateId}?p={catePg}",
+    "分类":"bondage$bondage#harness$harness#bdsm$bdsm",
+
+ 
+    //"数组二次截取":"list\":[&&]",
+    "数组":"class=\"item\"&&<div class=\"m_views\">",
+    "图片":"data-src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    
+
+    //"搜索url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&wd={wd}&pg={catePg}",
+
+
+    "跳转播放链接":"\"sources\"*\"file\":\"&&\"",
+
+
+    "嗅探词":".gif",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}
