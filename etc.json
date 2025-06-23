@@ -31,6 +31,11 @@
         "ext": "./PantyHose/lib/CNPP.json"
     },
     {
+        "key": "bandao","name": "🚸BDTV┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/bdtv.json"
+    },
+    {
         "key": "IDLE","name": "🚸idle┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/idle.json"
