@@ -5,8 +5,6 @@
     "分类url":"https://noodlemagazine.com/video/{cateId}?p={catePg}",
     "分类":"HC$harmony%20concepts#bondage$bondage#harness$harness#bdsm$bdsm",
 
- 
-    //"数组二次截取":"list\":[&&]",
     "数组":"class=\"item\"&&<div class=\"m_views\">",
     "图片":"data-src=\"&&\"",
     "标题":"alt=\"&&\"",
@@ -17,10 +15,10 @@
     //"搜索url":"https://hsckzy.cc/api.php/provide/vod/?ac=detail&wd={wd}&pg={catePg}",
 
 
-    "跳转播放链接":"\"sources\"*\"file\"*\"&&\"",
+    //"跳转播放链接":"\"sources\"*\"file\"*\"&&\"",
 
 
-    //"嗅探词":".mp4",
+    "嗅探词":".mp4",
               
     "调试":"1",
 
