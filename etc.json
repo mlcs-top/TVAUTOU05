@@ -31,6 +31,11 @@
         "ext": "./PantyHose/lib/CNPP.json"
     },
     {
+        "key": "porn8","name": "🚸P8┃ColorF","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/p8.json"
+    },
+    {
         "key": "bandao","name": "🚸BDTV┃Pic","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/bdtv.json"
