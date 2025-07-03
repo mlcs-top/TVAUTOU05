@@ -126,13 +126,13 @@
         "categories":["日剧","马泰剧","内地剧","欧美剧","香港剧","韩剧","台湾剧","恐怖片","动画片","剧情片","战争片","动作片",
         "记录片","爱情片","喜剧片","科幻片","灾难片","悬疑片","犯罪片","中国动漫","日本动漫","欧美动漫"]
     },
-    {
+/*    {
         "key":"feisu","name":"✨️飞速┃采集","type":1,"searchable":1,"filterable":0,
         "api":"https://www.feisuzyapi.com/api.php/provide/vod/?ac=list",
         "categories": ["国产动漫","日本动漫","欧美动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","动作片","喜剧片",
         "爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","香港剧","欧美剧","韩国剧","台湾剧","日本剧","泰国剧","纪录片","动画片",
         "电影解说","其他片","其他剧","体育赛事","短剧"]
-    },
+    },*/
     {
         "key":"非凡","name":"✨️非凡┃采集","type":0,"searchable":1,"changeable":1,
         "api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
@@ -158,7 +158,6 @@
 
 //////////////////////外挂接口(3)///////////////////////////////
 
-{"key":"苹果","name":"🍎苹果┃APP","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_LiteApple"},  
 {"key":"Ibot","name":"🤖机器┃外接","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_Ikanbot"},
 {"key":"Kuaikan","name":"🌹快看┃外接","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_Kuaikan"},
 
@@ -166,38 +165,37 @@
 
 {"key":"PPT","name":"🤹PPT┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/PPT.json"},
 {"key":"XD","name":"👦兄弟┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/兄弟.json"},
-{"key":"sxys","name":"师兄┃影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"http://www.meowtv.cn/xp/meow.php?file=sxys"}, 
+{"key":"sxys","name":"👦师兄┃影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"http://www.meowtv.cn/xp/meow.php?file=sxys"}, 
 //{"key":"Ivdy","name":"💖爱影┃影视","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/爱电影.json"}, 
-    //https://img2.gelonghui.com/library/ea5ba-5f15b1f1-2ca0-4dda-86b4-c86954b5bd37null
 //{"key":"kk","name":"🏴可可┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/可可.json"},
-{"key":"酷看","name":"💡酷看┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/酷看.json"},
+//{"key":"酷看","name":"💡酷看┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/酷看.json"},
 {"key":"55","name":"🐤午舞┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/55.json"},
 {"key":"New6v","name":"🐩六葳┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/6v.json"},
-{"key":"七新","name":"🍵七新┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/七新.json"},
+//{"key":"七新","name":"🍵七新┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/七新.json"},
 {"key":"98","name":"🎐玖八┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/98.json"},
 {"key":"BT","name":"🐝BARBT┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/barbt.json"},
 {"key":"ZZ","name":"🍂子子┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/子子.json"},
-{"key":"XXX2X","name":"🦃骚火┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/骚火.json"},
-{"key":"sbb","name":"👙素白┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/素白.json"},
-{"key":"星辰","name":"☪️星辰┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/星辰.json"},
-{"key":"knvod","name":"🚹柯南┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/柯南.json"},
+//{"key":"XXX2X","name":"🦃骚火┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/骚火.json"},
+//{"key":"sbb","name":"👙素白┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/素白.json"},
+//{"key":"星辰","name":"☪️星辰┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/星辰.json"},
+//{"key":"knvod","name":"🚹柯南┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/柯南.json"},
 {"key":"lkvod","name":"🍁来看┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/来看.json"},
 {"key":"HME","name":"👂️木耳┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./NOTES/采集站规则.json"},
 {"key":"rcsdhssc","name":"🎋立播┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/立播.json"},
-{"key":"FreeOK","name":"👌FrOK┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/freeok.json"},
-{"key":"圣城","name":"⛅️酷云┃PQ","type":3,"searchable":1,"quickSearch":0,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/酷云.json"},
+//{"key":"FreeOK","name":"👌FrOK┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/freeok.json"},
+//{"key":"圣城","name":"⛅️酷云┃PQ","type":3,"searchable":1,"quickSearch":0,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/酷云.json"},
 {"key":"茶杯狐","name":"🦊茶狐┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/茶杯狐.json"},
 {"key":"黑狐","name":"🦂黑狐┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/黑狐.json"},
 {"key":"TVB","name":"🔆TVB┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/TVB云播.json"},
 {"key":"Lib","name":"🎉利播┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/libvio.json"},
 {"key":"奇优","name":"🎗️奇优┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/奇优.json"},
-{"key":"csp_达龟","name":"🐳达龟┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/达达龟.json"},
+//{"key":"csp_达龟","name":"🐳达龟┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/达达龟.json"},
 {"key":"全集网","name":"⚛️全集┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/全集网.json"},
 
 //////////////////////////DRPY(2)///////////////////////////
 
-{"key":"贱贱","name":"🤪荐片┃DR","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/荐片.js"},
-{"key":"碟调","name":"📀碟调┃DR","type":3,"api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/碟调.js"},
+//{"key":"贱贱","name":"🤪荐片┃DR","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/荐片.js"},
+//{"key":"碟调","name":"📀碟调┃DR","type":3,"api":"./PantyHose/frame/drpy2.min.js","ext":"./PantyHose/lib/碟调.js"},
 
 ///////////////其他(3)//////////////
 
