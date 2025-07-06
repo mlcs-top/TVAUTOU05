@@ -1,6 +1,6 @@
 {
 
-    "分类url":"https://porn8.tube/{cateId}/?sort={by}&page={catePg}",
+    "分类url":"https://porn8.tube/{cateId}/?{by}&page={catePg}",
     "分类":"bondage$bondage#tied-up$tied-up",
 
     "数组":"b-thumb-item-inner relative&&details-wrapper",
@@ -19,10 +19,10 @@
 
     "bondage":[{"key":"by",
                 "name":"排序",
-                "value":[{"n":"流行","v":""},{"n":"最长","v":"longest"},{"n":"最新","v":"newest"}]}],
+                "value":[{"n":"流行","v":""},{"n":"最长","v":"sort=longest"},{"n":"最新","v":"sort=newest"}]}],
     "tied-up":[{"key":"by",
                 "name":"排序",
-                "value":[{"n":"流行","v":""},{"n":"最长","v":"longest"},{"n":"最新","v":"newest"}]}]
+                "value":[{"n":"流行","v":""},{"n":"最长","v":"sort=longest"},{"n":"最新","v":"sort=newest"}]}]
 
 
         }
