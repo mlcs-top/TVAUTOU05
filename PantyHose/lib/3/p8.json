@@ -19,10 +19,10 @@
 
     "bondage":[{"key":"by",
                 "name":"排序",
-                "value":[{"n":"所有","v":""},{"n":"流行","v":"popular"},{"n":"最长","v":"longest"},{"n":"最新","v":"newest"}]}],
+                "value":[{"n":"流行","v":""},{"n":"最长","v":"longest"},{"n":"最新","v":"newest"}]}],
     "tied-up":[{"key":"by",
                 "name":"排序",
-                "value":[{"n":"所有","v":""},{"n":"流行","v":"popular"},{"n":"最长","v":"longest"},{"n":"最新","v":"newest"}]}]
+                "value":[{"n":"流行","v":""},{"n":"最长","v":"longest"},{"n":"最新","v":"newest"}]}]
 
 
         }
