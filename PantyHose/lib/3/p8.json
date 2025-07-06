@@ -1,0 +1,29 @@
+{
+
+    "分类url":"https://porn8.tube/{cateId}/?page={catePg}",
+    "分类":"bondage$bondage#tied-up$tied-up",
+
+ 
+    //"数组二次截取":"list\":[&&]",
+    "数组":"b-thumb-item-inner relative&&details-wrapper",
+    "图片":"data-src=\"&&\"",
+    "标题":"alt=\"&&\"",
+    "链接":"href=\"&&\"",
+
+    
+
+    "搜索url":"https://porn8.tube/tags/{wd}?page={catePg}",
+
+
+    "跳转播放链接":"<source src=\"&&\"",
+
+    "简介":"<strong>&&</strong>",
+
+    "嗅探词":".mp4",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}
