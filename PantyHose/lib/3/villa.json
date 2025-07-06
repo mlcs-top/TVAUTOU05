@@ -8,9 +8,10 @@
         "分类url":"https://bdsmvilla.com/{cateId}?page={catePg}",//this Writing method is no sorting,Only display the latest!
         "分类":"NEW$new#BD$category/bondage#CN$category/chinese-bdsm#Elec$category/electro-tens#Forced$category/forced-orgasm#CB$category/chastity#OUT$category/outdoor-bdsm#Vintage$category/vintage-bdsm#tit-torture$category/tit-torture",
         
-        "数组":"bg-[#2a2a2a] rounded-lg&&<video class=",
-        "图片":"src=\"&&\"",
+        "数组":"border-accent group&&bg-opacity-30",
+        "图片":"<img class=*src=\"&&\"",
         "标题":"alt=\"&&\"",
+        "副标题":"text-sm text-white\">&&</div>",
         "链接":"<a href='&&'",
 
 
