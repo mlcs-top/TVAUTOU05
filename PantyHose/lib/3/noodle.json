@@ -2,7 +2,7 @@
 
 {
 
-    "分类url":"https://noodlemagazine.com/video/{cateId}?sort={by}&p={catePg}",
+    "分类url":"https://noodlemagazine.com/video/{cateId}?sort=0&p={catePg}",
     "分类":"Strappado$Strappado#Self-Bondage$Self-Bondage#chair tied$chair%20tied#ballgagged$ballgagged#Alba Zevon$Alba%20Zevon#jim hunter$jim%20hunter#HC$harmony%20concepts#BC$Bondage%20Cafe#Tieable$Tieable#Hucows$Hucows#lew rubens$lew%20rubens%20productions#Chimerabondage$Chimerabondage#Chrissy Marie$chrissy%20marie#FutileStruggles$FutileStruggles#Jay Edwards$Jay%20Edwards#DP$Devonshire%20Productions#randy moore$randy%20moore#Metal$metal%20bondage#Inescapable$Inescapable#shibari$shibari#lil missy$lil%20missy#半岛$半岛#Serene Isley$Serene%20Isley#Hardtied$hardtied#bondage$bondage#harness$harness#bdsm$bdsm",
 
     "数组":"class=\"item\"&&<div class=\"m_views\">",
@@ -15,8 +15,8 @@
     "搜索url":"https://noodlemagazine.com/video/{wd}?p={catePg}",
     "嗅探词":".mp4",
     "调试":"1",
-    "直接播放":"1",
-
+    "直接播放":"1"
+/*
     "筛选":{
     "Strappado":[
     {"key":"by","name":"排序","value":[
@@ -35,6 +35,6 @@
     }
                 ]
 }
-
+*/
 
 }
