@@ -5,18 +5,24 @@
     "请求头":"Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.125 Safari/537.36",
     
     "分类url":"https://www.keke1.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html;;k",
-    "分类":"电影$1#电视剧$2#动漫$3#综艺纪录$4#短剧$5",
-    "数组":"class=\"module-item\"&&#itemCoverImg div:nth-child",
+    "分类":"电影$1#电视剧$2#综艺纪录$4#短剧$5",
 
-    //"图片":"'https://61.147.93.252:15002/vod1/ + data-original=\"/vod1/&&\"",
-    
-    "图片":"'https://vres.xzzsw.com/ + data-original=\"/&&\"",
-
-
+    "数组":"class=\"module-item&&#itemCoverImg div:nth-child",
+    //"图片":"'https://vres.xzzsw.com/ + data-original=\"/&&\"",
+    "图片":"https://vres.cfaqcgj.com + noneCoverImg*data-original=\"&&\"",
     "标题":"class=\"v-item-title\">&&</div>",
     "副标题":"<span>&&</span>",
     "链接":"href=\"&&\"",
 
+    "线路数组":"swiper-slide source-swiper-slide&&/span>",
+    "线路标题":"source-item-label\">&&<",
+
+    "播放数组":"<div class=\"episode-list\"&&</div>",
+    "播放列表":"<a&&/a>",
+    "播放标题":">&&<",
+
+    
+    
 
    // "搜索url":"https://www.keke1.app/search?k={wd}"
 
