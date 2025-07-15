@@ -68,6 +68,12 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
     {
+      "key": "smtubegalore","name": "🚸Galore┃ColorF",
+      "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
+      "api": "csp_XBPQ",
+      "ext": "./PantyHose/lib/3/smtubegalore.json"
+    },
+    {
       "key": "pornlab-kb","name": "🚸Pornlab-kb┃ColorF",
       "type": 3,"searchable": 1,"quickSearch": 0,"changeable": 1,
       "api": "csp_XBPQ",
