@@ -9,7 +9,7 @@
 
     "数组":"class=\"module-item&&#itemCoverImg div:nth-child",
     //"图片":"'https://vres.xzzsw.com/ + data-original=\"/&&\"",
-    "图片":"'https://vres.cfaqcgj.com + noneCoverImg*data-original=\"&&\"",
+    "图片":"https://vres.cfaqcgj.com + noneCoverImg\">*data-original=\"&&\"",
     "标题":"class=\"v-item-title\">&&</div>",
     "副标题":"<span>&&</span>",
     "链接":"href=\"&&\"",
