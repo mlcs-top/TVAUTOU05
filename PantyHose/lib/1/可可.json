@@ -8,8 +8,7 @@
     "分类":"电影$1#电视剧$2#综艺纪录$4#短剧$5",
 
     "数组":"class=\"module-item&&#itemCoverImg div:nth-child",
-    //"图片":"'https://vres.xzzsw.com/ + data-original=\"/&&\"",
-    //"图片":"'https://vres.cfaqcgj.com/+noneCoverImg\">*data-original=\"/&&\"",
+    //"图片":"https://vres.cfaqcgj.com+noneCoverImg*data-original=\"&&\"",
     "图片":"'https://vres.cfaqcgj.com/+data-original=\"/&&\"",
     "标题":"class=\"v-item-title\">&&</div>",
     "副标题":"<span>&&</span>",
@@ -23,7 +22,7 @@
     "播放标题":">&&<",
 
 
-   // "搜索url":"https://www.keke1.app/search?k={wd}"
+   "搜索url":"https://www.keke1.app/search?t=Z%2FJ0x8m44WLuWe7kyEpJew%3D%3D&k={wd}",
 
    "筛选":{
     "1":[
