@@ -184,7 +184,7 @@
 {"key":"lkvod","name":"🍁来看┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/来看.json"},
 {"key":"HME","name":"👂️木耳┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./NOTES/采集站规则.json"},
 {"key":"rcsdhssc","name":"🎋立播┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/立播.json"},
-//{"key":"FreeOK","name":"👌FrOK┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/freeok.json"},
+{"key":"FreeOK","name":"👌FrOK┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/freeok.json"},
 //{"key":"圣城","name":"⛅️酷云┃PQ","type":3,"searchable":1,"quickSearch":0,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/酷云.json"},
 {"key":"茶杯狐","name":"🦊茶狐┃PQ","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/茶杯狐.json"},
 {"key":"黑狐","name":"🦂黑狐┃PQ","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"csp_XBPQ","ext":"./PantyHose/lib/1/黑狐.json"},
