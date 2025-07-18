@@ -30,6 +30,7 @@
     //"跳转播放链接":"<div class=\"video\">*<a href=\"&&\"><",
     "跳转播放链接":"<iframe src=\"&&\"",
     //"二次跳转播放链接":"sources: \\[{file:\"&&\"",
+    "二次跳转播放链接":"https://urosrv1.streambucket.xyz/hls2/01/+_n|&&|+/,+|master|urlset|&&|+,.urlset/master.m3u8?t=+|srv|7200|&&|+&s=+|data|view|&&|+&e=7200&v=+|data|view|*|&&|video_ad|+&srv=stora1&i=0.3&sp=1000",
 
 
     //"二次跳转播放链接":"window.location.href = '&&'",//此页面为"https://voe.sx/&&"，短暂停留后则会跳转其他域名
