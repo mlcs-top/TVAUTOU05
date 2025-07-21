@@ -17,7 +17,7 @@
     "播放列表":"<a&&/a>",
     "播放标题":">&&<",
 
-    "跳转播放链接":"<iframe*src=\"*url=&&\"",
+    "跳转播放链接":"<iframe*url=&&\"",
     "嗅探词":".m3u8",
 
     "搜索":"https://www.czzymovie.com/xsss1O1?q={wd}"
