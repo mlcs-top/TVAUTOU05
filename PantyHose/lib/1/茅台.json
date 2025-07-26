@@ -1,0 +1,29 @@
+{
+    //"请求头": "Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.251 Safari/537.36",
+
+    "分类url":"https://mtzy.me/api.php/provide/vod/?ac=detail&t={cateId}&pg={catePg};;v",
+    "分类":"电影$1#连续剧$2#综艺片$3#纪录片$5#动作片$6#爱情片$7#喜剧片$8#剧情片&11#国产剧$13大陆综艺$25",
+
+ 
+    "数组二次截取":"list\":[&&]",
+    "数组":"{&&}",
+    "图片":"vod_pic\"*\"&&\"",
+    "标题":"vod_name\"*\"&&\"",
+    "副标题":"vod_pubdate\"*\"&&\"",
+    "链接":"https://mtzy.me/voddetail/+\"vod_id\":&&,+.html",
+
+    
+
+    "搜索url":"https://mtzy.me/api.php/provide/vod/?ac=detail&wd={wd}",
+
+    //"播放数组":"",
+
+
+    "嗅探词":".m3u8",
+              
+    "调试":"1",
+
+    "直接播放":"1"
+
+
+}
