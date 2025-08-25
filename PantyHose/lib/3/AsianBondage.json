@@ -8,8 +8,8 @@
     "图片":"<p><a href=\"&&\"",
     "标题":"rel=\"bookmark\">&&</a></h2>",
     "副标题":"datetime=\"*\">&&</time>",
-    "链接":"class=\"entry-title\"><a href=\"&&\"",
-
+    //"链接":"class=\"entry-title\"><a href=\"&&\"",
+    "链接":"</span><a href=\"&&\"",
 
     "跳转播放链接":"<p>Download:</p><p><a href=\"&&\"",
     "二次跳转播放链接":"https://fs23.hotlink.cc/hls/+|urlset|&&|hls|+,.urlset/master.m3u8?xxx=+image|&&|xxx",
