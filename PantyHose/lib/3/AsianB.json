@@ -14,7 +14,7 @@
 
 
     "跳转播放链接":"<p>Download:</p><p><a href=\"&&\"",
-    "二次跳转播放链接":"https://fs23.hotlink.cc/hls/+|urlset|&&|hls|+,.urlset/master.m3u8?xxx=+image|&&|xxx",
+    "二次跳转播放链接":"https://+|hls|&&|sources|+.hotlink.cc/hls/+|urlset|&&|hls|+,.urlset/master.m3u8?xxx=+image|&&|xxx",
 
 
     "嗅探词":".m3u8",
