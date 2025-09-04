@@ -35,6 +35,11 @@
         "ext": "./PantyHose/lib/3/AsianB.json"
     },    
     {
+        "key": "lB","name": "🚸Liberation┃Clips","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/3/liberation.json"
+    }, 
+    {
         "key": "tjs","name": "🚸tjs┃Clips","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
         "api": "csp_XBPQ",
         "ext": "./PantyHose/lib/3/smtjs.json"
