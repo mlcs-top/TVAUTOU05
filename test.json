@@ -12,6 +12,11 @@
             "timeout": 10
     },*/
     {
+        "key": "hams","name": "hams┃PQ","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,
+        "api": "csp_XBPQ",
+        "ext": "./PantyHose/lib/3/hams.json"
+    },
+    {
         "key": "avdb","name": "avdb","type": 4,"searchable": 0,"changeable": 0,
         "api": "http://zhangqun66.com/229.php"
     },
